@@ -34,8 +34,10 @@ Applay **Identity :** Project also contains a register and login pages to save d
  
  ## How it Work 
  - clone this repo : https://github.com/AhmedAshraf711/Movies.git
- ### Installation
- 
+
+> [!IMPORTANT]
+>  ### Installation
+>  - Microsoft.EntityFrameworkCore 5.0.4
  - Microsoft.EntityFrameworkCore 5.0.4
  - Microsoft.EntityFrameworkCore.SqlServer 5.0.4
  - Microsoft.EntityFrameworkCore.Tools 5.0.4
