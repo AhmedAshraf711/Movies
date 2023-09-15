@@ -3,7 +3,8 @@
 * [project notes](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#project-notes)
 
 ### project notes
-- create :  **responsible for adding movies to the site**
+- create
+   **responsible for adding movies to the site**
 - Update
 - Delete
 - Detailes
