@@ -33,6 +33,19 @@ Apply **StateMangement :**
 
 Applay **Identity :** Project also contains a **Register** and **Login** pages to save data fo users. 
 
+
+## Tools
+- ASP.NET 5 MVC
+- EntityFrameWorkCore
+- LINQ
+- HTML
+- CSS
+- JavaScript
+- BootStrap
+- JQuery
+- Ajax
+
+  
  
  ## How it Work 
  - clone this repo : https://github.com/AhmedAshraf711/Movies.git
