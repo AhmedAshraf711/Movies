@@ -7,7 +7,7 @@ This Project Consists Of Four Operations
 - Create 
 - Update 
 - Delete
-- Detailes :**responsible for showing  movies on the site**
+- Detailes
 
 Created By **MVC**
 
@@ -19,5 +19,8 @@ Created By **MVC**
  
  **Delete** : responsible for Delete movies from the site.
  
- **only Admins can apply them on movies** also page of  **Detailes** admins can display it , Users can display page of **Detailes** Only.
+ **only Admins can apply them on movies** also page of  **Detailes** : responsible for showing  movies on the site . 
+ 
+ admins can display it , Users can display page of **Detailes** Only.
+ 
 
