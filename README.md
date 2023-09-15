@@ -30,5 +30,6 @@ Apply **StateMangement :** add two roles **Admin** and **User**.
 Applay **Identity :** Project also contains a register and login pages to save data fo users. 
 
  
- 
+ ## How it Work 
+ - clone this repo : https://github.com/AhmedAshraf711/Movies.git
 
