@@ -24,6 +24,8 @@ Created By **MVC**
  
  Users can display page of **Detailes** Only.
 
+ Project also contains a register and login pages to save data fo users  
+
  
  
 
