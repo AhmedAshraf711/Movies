@@ -22,8 +22,10 @@ Created By **MVC**
  **only Admins can apply them on movies** ,  also page of  **Detailes**  this page  responsible for **showing**  movies on the site , admins can display it.
 
  Users can display page of **Detailes** Only.
+ 
+Apply **statemangement** and add two roles **Admin** and **User**.
 
- Project also contains a register and login pages to save data fo users  
+Applay  **Project also contains** a register and login pages to save data fo users. 
 
  
  
