@@ -31,7 +31,7 @@ Apply **StateMangement :**
  - Applay **Authorization** to ensure that user have a **Authoriz** to access to a number of pages or all of pages ,role of each user determines this thing.
 
 
-Applay **Identity :** Project also contains a register and login pages to save data fo users. 
+Applay **Identity :** Project also contains a **Register** and **Login** pages to save data fo users. 
 
  
  ## How it Work 
