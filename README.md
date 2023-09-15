@@ -11,5 +11,5 @@ This project consists of four operation
 - 
 Created By **MVC**
 
- operations Such as **Create** , **Edit** and **Delete** only Admins can apply them on movies also page of  **Detailes**   , Users can display page of **Detailes** Only.
+ operations Such as **Create** , **Edit** and **Delete** only Admins can apply them on movies also page of  **Detailes** admin can display it    , Users can display page of **Detailes** Only.
 
