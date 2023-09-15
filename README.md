@@ -3,7 +3,6 @@
 * [project notes](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#project-notes)
 
 ### project notes
-This project consists of four operation
 - create :  **responsible for adding movies to the site**
 - Update
 - Delete
