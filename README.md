@@ -2,7 +2,6 @@
 ## Table Of Content
 * [project notes](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#project-notes)
 * [How it Work](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#how-it-work)
-* [Installation To Work](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#installation)
 
 ### project notes
 This Project Consists Of Four Operations 
@@ -39,10 +38,11 @@ Applay **Identity :** Project also contains a register and login pages to save d
 > [!IMPORTANT]
 >  ### Installation
 >  - Microsoft.EntityFrameworkCore 5.0.4
- - Microsoft.EntityFrameworkCore 5.0.4
- - Microsoft.EntityFrameworkCore.SqlServer 5.0.4
- - Microsoft.EntityFrameworkCore.Tools 5.0.4
- - Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.4
- - Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.4
- - NToastNotify 7.0.0
+>  - Microsoft.EntityFrameworkCore 5.0.4
+>  - Microsoft.EntityFrameworkCore.SqlServer 5.0.4
+>  - Microsoft.EntityFrameworkCore.Tools 5.0.4
+>  - Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.4
+>  - Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.4
+>  - NToastNotify 7.0.0
+
 
