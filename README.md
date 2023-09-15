@@ -3,11 +3,10 @@
 * [project notes](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#project-notes)
 
 ### project notes
-- create
-   **responsible for adding movies to the site**
-- Update
-- Delete
-- Detailes
+- Create : **responsible for adding movies to the site**
+- Update : **responsible for updating movies on the site**
+- Delete : **responsible for Delete movies from the site**
+- Detailes :**responsible for showing  movies on the site**
 
 Created By **MVC**
 
