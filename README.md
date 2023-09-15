@@ -3,7 +3,7 @@
 * [project notes](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#project-notes)
 
 ### project notes
-This is project consists of four operation
+This project consists of four operation
 - create
 - Update
 - Delete
@@ -11,5 +11,5 @@ This is project consists of four operation
 - 
 Created By **MVC**
 
-These operations only Admins can apply them on movies , user can display page of detiels only.
+ operations Such as **Create** , **Edit** and **Delete** only Admins can apply them on movies also page of  **Detailes**   , Users can display page of **Detailes** Only.
 
