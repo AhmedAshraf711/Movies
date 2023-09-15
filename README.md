@@ -4,8 +4,7 @@
 
 ### project notes
 This project consists of four operation
-- create
-  This operation responsible for add movie to the site
+- create   This operation responsible for add movie to the site
 - Update
 - Delete
 - Detailes
