@@ -9,4 +9,6 @@ This is project consists of four operation
 - Delete
 - Detailes
 
+These operations only Admins can apply them on movies , user can display detiels only.
+
 Created By **MVC** 
