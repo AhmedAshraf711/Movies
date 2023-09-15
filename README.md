@@ -23,9 +23,9 @@ Created By **MVC**
 
  Users can display page of **Detailes** Only.
  
-Apply **statemangement** and add two roles **Admin** and **User**.
+Apply **StateMangement** and add two roles **Admin** and **User**.
 
-Applay  **Project also contains** a register and login pages to save data fo users. 
+Applay **Identity**  Project also contains a register and login pages to save data fo users. 
 
  
  
