@@ -8,7 +8,8 @@ This is project consists of four operation
 - Update
 - Delete
 - Detailes
+- 
+Created By **MVC**
 
-These operations only Admins can apply them on movies , user can display detiels only.
+These operations only Admins can apply them on movies , user can display page of detiels only.
 
-Created By **MVC** 
