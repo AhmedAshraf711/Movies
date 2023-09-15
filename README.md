@@ -22,5 +22,7 @@ Created By **MVC**
  **only Admins can apply them on movies** ,  also page of  **Detailes**  this page  responsible for **showing**  movies on the site. 
  
  admins can display it , Users can display page of **Detailes** Only.
+
+ 
  
 
