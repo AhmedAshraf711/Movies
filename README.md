@@ -32,4 +32,11 @@ Applay **Identity :** Project also contains a register and login pages to save d
  
  ## How it Work 
  - clone this repo : https://github.com/AhmedAshraf711/Movies.git
+ ### Installation
+ - Microsoft.EntityFrameworkCore 5.0.4
+ - Microsoft.EntityFrameworkCore.SqlServer 5.0.4
+ - Microsoft.EntityFrameworkCore.Tools 5.0.4
+ - Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.4
+ - Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.4
+ - NToastNotify 7.0.0
 
