@@ -24,10 +24,10 @@ This Project Consists Of Four Operations
  Users can display page of **Detailes** Only.
 
 
-Apply **StateMangement** : add two roles **Admin** and **User**.
+Apply **StateMangement :** add two roles **Admin** and **User**.
 
 
-Applay **Identity** : Project also contains a register and login pages to save data fo users. 
+Applay **Identity :** Project also contains a register and login pages to save data fo users. 
 
  
  
