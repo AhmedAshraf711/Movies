@@ -25,7 +25,10 @@ This Project Consists Of Four Operations
  Users can display page of **Detailes** Only.
 
 
-Apply **StateMangement :** add two roles **Admin** and **User**.
+Apply **StateMangement :**
+ - Add two roles **Admin** , **User**.
+ - Applay **Authentication** to ensure that any user want to access to the site  have a **cookie** .
+ - Applay **Authorization** to ensure that user have a **Authoriz** to access to a number of pages or all of pages ,role of each user determines this thing.
 
 
 Applay **Identity :** Project also contains a register and login pages to save data fo users. 
