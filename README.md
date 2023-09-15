@@ -3,6 +3,7 @@
 * [project notes](https://github.com/AhmedAshraf711/Movies/blob/master/README.md#project-notes)
 
 ### project notes
+This Project Consists Of Four Operations 
 - Create 
 - Update 
 - Delete
