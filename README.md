@@ -27,13 +27,13 @@ This Project Consists Of Four Operations
  Users can display page of **Detailes** Only.
 
 
-Apply **StateMangement :**
- - Add two roles **Admin** , **User**.
- - Applay **Authentication** to ensure that any user want to access to the site  have a **cookie** .
- - Applay **Authorization** to ensure that user have a **Authoriz** to access to a number of pages or all of pages ,role of each user determines this thing.
+Applay **Identity :**
+- Project also contains a **Register** and **Login** pages.
+- Add two roles **Admin** , **User**.
+- Applay **Authentication** to ensure that any user want to access to the site  have a **cookie**.
+- Applay **Authorization** to ensure that user have a **Authoriz** to access to a number of pages or all of pages ,role of each user determines this thing.
 
 
-Applay **Identity :** Project also contains a **Register** and **Login** pages to save data fo users. 
 
 ## Tools
 - ASP.NET 5 MVC
