@@ -37,7 +37,6 @@ Applay **Identity :**
 
 ## Tools
 - ASP.NET 5 MVC
-- ASP.NET6
 - EntityFrameWorkCore
 - LINQ
 - HTML
